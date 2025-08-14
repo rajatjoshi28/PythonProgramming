@@ -1,4 +1,8 @@
-a=10
-b=3
-c=a+b
-print(c)
+age = 25
+heigh = 5.9
+favoriite_color = "blue"
+
+
+print(favoriite_color.lower())
+print(favoriite_color.upper())
+print(favoriite_color.capitalize())
